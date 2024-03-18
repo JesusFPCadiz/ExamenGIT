@@ -2,9 +2,7 @@ package evf.javadoc.original;
 
 public class Artista {
     String nombreArtista;
-	//
     public Artista(String nombreArtista) {
-	//Hola
         this.nombreArtista = nombreArtista;
     }
 
@@ -17,7 +15,7 @@ public class Artista {
 
     public String getNombreArtista() {
         return nombreArtista;
-	//Esto es un comentario
+	//Prueba fetch
     }
     
 }
