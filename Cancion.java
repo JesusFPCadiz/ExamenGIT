@@ -2,7 +2,7 @@ package evf.javadoc.original;
 
 
  public class Cancion {
-    String nombreCancion;
+    String nombreCancionb;
     Artista artista;
 
     public Cancion(String nombreCancion, Artista artista) {
